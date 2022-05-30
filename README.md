@@ -1,24 +1,39 @@
-<h3 align="center">A passionate developer from Canada</h3>
+# 💫About Me :
+Software Developer from Ottawa, Canada
+Passionate about learning about new technologies
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josh-larabie&label=Profile%20views&color=0e75b6&style=flat" alt="josh-larabie" /> </p>
+Currently Working on:
+    
+    - Course Completion of Dr. Angela Yu's Web Developer Bootcamp
+           https://www.udemy.com/course/the-complete-web-development-bootcamp/
+
+    - SourceHub.dev, an unreleased personal project (more info coming soon)
+   
+
+* Seeking employment opportunities as a Junior Developer
 
 
-<a href="https://app.daily.dev/Josh_Larabie"><img src="https://api.daily.dev/devcards/4d23717fa3d24abca846b479aaf39f1f.png?r=zgv" width="400" alt="Josh Larabie's Dev Card"/></a>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 💻Tech Stack
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josh-larabie&show_icons=true&locale=en&layout=compact" alt="josh-larabie" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josh-larabie&show_icons=true&locale=en" alt="josh-larabie" /></p>
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=Josh-Larabie&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Josh-Larabie&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Josh-Larabie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🌐Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Juicy#1902) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josh-larabie) 
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://www.leetcode.com/josh-larabie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="josh-larabie" height="30" width="40" /></a>
-<a href="https://discord.gg/Juicy#1902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Juicy#1902" height="30" width="40" /></a>
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josh-larabie&" alt="josh-larabie" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=Josh-Larabie&icon=0&color=12)](https://visitcount.itsvg.in)

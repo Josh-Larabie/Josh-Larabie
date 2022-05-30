@@ -2,9 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josh-larabie&label=Profile%20views&color=0e75b6&style=flat" alt="josh-larabie" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josh-larabie" alt="josh-larabie" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<a href="https://app.daily.dev/Josh_Larabie"><img src="https://api.daily.dev/devcards/4d23717fa3d24abca846b479aaf39f1f.png?r=zgv" width="400" alt="Josh Larabie's Dev Card"/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,5 +12,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josh-larabie&show_icons=true&locale=en&layout=compact" alt="josh-larabie" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josh-larabie&show_icons=true&locale=en" alt="josh-larabie" /></p>
+
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://www.leetcode.com/josh-larabie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="josh-larabie" height="30" width="40" /></a>
+<a href="https://discord.gg/Juicy#1902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Juicy#1902" height="30" width="40" /></a>
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josh-larabie&" alt="josh-larabie" /></p>

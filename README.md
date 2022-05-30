@@ -1,6 +1,5 @@
 # 💫About Me :
-Software Developer from Ottawa, Canada
-Passionate about learning about new technologies
+Software Developer from Ottawa, Canada || Passionate learner of all things nerdy. 
 
 Currently Working on:
     

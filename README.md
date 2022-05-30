@@ -32,7 +32,10 @@ Currently Working on:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Josh-Larabie&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Juicy#1902) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josh-larabie) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Juicy#1902) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/josh-larabie)
+
+<a href="https://app.daily.dev/Josh_Larabie"><img src="https://api.daily.dev/devcards/4d23717fa3d24abca846b479aaf39f1f.png?r=m32" width="340" alt="Josh Larabie's Dev Card"/></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Josh-Larabie&icon=0&color=12)](https://visitcount.itsvg.in)

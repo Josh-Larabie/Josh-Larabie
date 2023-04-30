@@ -2,11 +2,7 @@
 Software Developer from Ottawa, Canada - ("A Passionate learner of all things nerdy.")
 
 Currently Working on:
-    
-    - Course Completion of Dr. Angela Yu's Web Developer Bootcamp
-           https://www.udemy.com/course/the-complete-web-development-bootcamp/
-
-    - SourceHub.dev, an unreleased personal project (more info coming soon)
+    TBA
    
 
 Seeking employment opportunities as a Junior Developer
